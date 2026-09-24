@@ -1,12 +1,12 @@
-# ValuStart
+# ValueStart
 
-ValuStart is a three-page business valuation prototype for an MBA Investment Banking & Capital Markets project.
+ValueStart is a three-page business valuation prototype for an MBA Investment Banking & Capital Markets project.
 
 ## Run locally
 Open `index.html` in any modern browser.
 
 ## Publish on GitHub Pages
-1. Create a new GitHub repository (for example, `valustart`).
+1. Create a new GitHub repository (for example, `ValueStart`).
 2. Upload all files from this folder to the repository root.
 3. Open **Settings > Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
